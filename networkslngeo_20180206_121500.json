@@ -1,0 +1,113 @@
+{
+ "type": "FeatureCollection",
+	"features": [
+	 {
+	  "type": "Feature",
+	  "id": "start",
+	  "properties": {
+	    "id": "start",
+	    "type": "network"
+	  },
+	  "geometry": {
+	    "type": "Point",
+	    "coordinates": [-76.9426,38.9869]
+	  }
+	 },
+	 {
+	  "type": "Feature",
+	  "id": "end",
+	  "properties": {
+	    "id": "end",
+	    "type": "network"
+	  },
+	  "geometry": {
+	    "type": "Point",
+	    "coordinates": [-76.8477,38.6968]
+	  }
+	 },
+	 {
+	  "type": "Feature",
+	  "id": "Path 1",
+	  "properties": {
+	    "id": "Path 1",
+	    "type": "network",
+	    "time": "Time: 0.1975 hrs",
+	    "prisk": "Population Risk: 3.7011e-04",
+	    "brisk": "Building Risk: 1.9708e+04"
+	  },
+	  "geometry": {
+	    "type": "LineString",
+	    "coordinates": [
+	     [-76.9426,38.9869],
+	     [-76.9289,38.9837],
+	     [-76.8774,38.9321],
+	     [-76.8774,38.8805],
+	     [-76.8774,38.8289],
+	     [-76.8774,38.7774],
+	     [-76.8774,38.7258],
+	     [-76.8477,38.6968]
+	    ]
+	  }
+	 },
+	 {
+	  "type": "Feature",
+	  "id": "Path 2",
+	  "properties": {
+	    "id": "Path 2",
+	    "type": "network",
+	    "time": "Time: 0.3001 hrs",
+	    "prisk": "Population Risk: 6.5281e-04",
+	    "brisk": "Building Risk: 1.4526e+04"
+	  },
+	  "geometry": {
+	    "type": "LineString",
+	    "coordinates": [
+	     [-76.9426,38.9869],
+	     [-76.9805,39.0353],
+	     [-76.9289,38.9837],
+	     [-76.8774,38.9321],
+	     [-76.9289,38.8805],
+	     [-76.8774,38.8289],
+	     [-76.9289,38.7774],
+	     [-76.8774,38.7258],
+	     [-76.8477,38.6968]
+	    ]
+	  }
+	 },
+	 {
+	  "type": "Feature",
+	  "id": "Path 3",
+	  "properties": {
+	    "id": "Path 3",
+	    "type": "network",
+	    "time": "Time: 0.5338 hrs",
+	    "prisk": "Population Risk: 1.0945e-04",
+	    "brisk": "Building Risk: 4.4907e+04"
+	  },
+	  "geometry": {
+	    "type": "LineString",
+	    "coordinates": [
+	     [-76.9426,38.9869],
+	     [-76.9289,39.0353],
+	     [-76.8774,39.0353],
+	     [-76.8258,39.0353],
+	     [-76.7742,39.0353],
+	     [-76.7742,39.0868],
+	     [-76.7226,39.0353],
+	     [-76.7226,38.9837],
+	     [-76.6711,38.9837],
+	     [-76.6711,38.9321],
+	     [-76.6195,38.8805],
+	     [-76.6195,38.8289],
+	     [-76.6711,38.7774],
+	     [-76.7226,38.7774],
+	     [-76.7226,38.7258],
+	     [-76.7742,38.7258],
+	     [-76.8258,38.7258],
+	     [-76.8258,38.6742],
+	     [-76.8477,38.6968]
+	    ]
+	  }
+	 }
+	]
+}
